@@ -1,0 +1,13 @@
+{
+  "name": "template",
+  "type": "tools",
+  "version": "1.0.0",
+  "description": "样例工具",
+  "bin": ["sunday_template"],
+  "depend": [ ],
+  "keywords": [
+    "sunday",
+    "tools"
+  ],
+  "author": "pysunday"
+}
