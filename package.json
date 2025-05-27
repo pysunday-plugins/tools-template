@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "description": "样例工具",
   "bin": ["sunday_template"],
-  "depend": [ ],
+  "depend": ["pysunday-plugins/login-template"],
   "keywords": [
     "sunday",
     "tools"
